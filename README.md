@@ -4,7 +4,7 @@ FitTrack is a simple Java-based GUI application designed to help users track the
 	•	Daily Calorie Requirement Calculator
 	•	Food Calorie Tracker
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Table of Contents :-
 	1.	Features
