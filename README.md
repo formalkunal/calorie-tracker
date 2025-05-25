@@ -18,7 +18,7 @@ Table of Contents :-
 	6.	Contributing
 	7.	License
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Features
 	•	Personalized Calorie Calculation:
@@ -28,14 +28,14 @@ Easily track your food items and their caloric values while keeping a live count
 	•	Interactive UI:
 Built using Java Swing, the application provides an intuitive and clean interface for user interaction.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Technologies Used
 	•	Programming Language: Java
 	•	GUI Framework: Swing
 	•	Development Environment: Compatible with any Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 How to Run
 	1.	Clone the Repository : 
@@ -47,7 +47,7 @@ How to Run
  3.	Run the Application:
    java CalorieTracker
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
  Usage
 
 • Main Menu
@@ -70,14 +70,14 @@ How to Run
 	3.	View live updates of total calories consumed and compare them to your calorie goal.
 	4.	Option to return to the main menu.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Screenshots
 	•	Main Menu:
  	•	Calorie Requirement Calculator:
   •	Food Calorie Tracker:
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Contributing
 
@@ -87,7 +87,7 @@ Contributions are welcome! If you’d like to improve the application or report 
 	3.	Make your changes.
 	4.	Submit a pull request.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 License
 
